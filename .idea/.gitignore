@@ -5,6 +5,7 @@ v2/cmd/subfinder/subfinder
 # subfinder binary when built with `make`
 v2/subfinder
 vendor/
+
 .idea
 .devcontainer
 .vscode
